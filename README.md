@@ -1,2 +1,4 @@
-# JavaScript---Query-The_Missing_Manual
-JavaScript &amp; jQuery: The Missing Manual. Tutorial files and solutions.
+# JavaScript & jQuery: The Missing Manual
+### Tutorial files and solutions
+
+September 2014: Third Edition.
